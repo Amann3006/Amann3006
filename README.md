@@ -7,7 +7,7 @@ https://i.imgur.com/iXuL1HG.png" height="175px -->
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning ** Data Structures and Algorithms and IOS and Mobile Developement** **
+- 🌱 I’m currently learning **Data Structures and Algorithms and IOS - Mobile Developement** **
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
